@@ -1,3 +1,6 @@
+# EDIT
+Eclipse Git committing is being garbage rn...
+
 # Quadratic-Bezier-Curve
 Just a single Quadratic Bezier Curve for fun
 
